@@ -1,1 +1,3 @@
 # FILE FOR PROJECT SK 2022-2023
+
+1. Database query
