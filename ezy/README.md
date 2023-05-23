@@ -2,4 +2,4 @@
 
 Folder:
 
-1. [gambar](/gambar)
+1. [gambar](gambar)
