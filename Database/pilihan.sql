@@ -25,4 +25,4 @@ idJenama int (11)
 );
 INSERT INTO pengguna
 VALUES
-('admin','12345' 'PENGURUS', '0139887878', 'ADMIN');
+('admin','12345', 'PENGURUS', '0139887878', 'ADMIN');
