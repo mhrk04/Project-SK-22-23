@@ -1,3 +1,5 @@
 # FILE FOR PROJECT SK 2022-2023
 
-1. Database query
+Table of content:
+
+1. [Database query](/Database)
