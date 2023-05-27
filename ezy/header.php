@@ -17,7 +17,7 @@ require_once "./config.php";
 <body>
   <div>
     <br>
-    <h1><?= $$kedai; ?></h1>
+    <h1><?= $kedai; ?></h1>
     <h3><?= $motto; ?></h3>
     <h5><?= $lain2; ?></h5>
   </div>
